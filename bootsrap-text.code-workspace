@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "bootstrap-test",
+			"path": "."
+		},
+		{
+			"name": "image",
+			"path": "..\\..\\..\\personal-portfolio\\image"
+		}
+	],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "bootstrap-test"
+  }
+}
